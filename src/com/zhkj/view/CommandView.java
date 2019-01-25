@@ -20,6 +20,7 @@ public class CommandView {
 //		System.out.println("3,up(向上飞)");
 //		System.out.println("4,退出系统。");
 //		System.out.print("请输入您的选择：");
+//
 		
 
 		String str = "1,takeoff（起飞。）\n";
